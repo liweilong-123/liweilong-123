@@ -3,7 +3,7 @@ import { Image, Carousel } from 'antd';
 import { view1Res } from '../test'
 
 export const View1 = () => {
-
+    //
     const [listData, setListData] = useState([]);
     const [bannerData, setBannerData] = useState([]);
 
